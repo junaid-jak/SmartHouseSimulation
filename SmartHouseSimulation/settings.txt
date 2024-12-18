@@ -1,0 +1,4 @@
+SmartObject,TV,100.5
+SmartObject,Refrigerator,150.0
+EnergySource,SolarPanel,500.0
+EnergySource,WindTurbine,800.0
