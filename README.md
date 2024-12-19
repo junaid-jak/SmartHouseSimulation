@@ -18,4 +18,4 @@ This project provides a GUI-based simulation to manage and analyze the energy su
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/smart-house-energy-simulation.git
+   git clone https://github.com/junaid-jak/smart-house-energy-simulation.git
